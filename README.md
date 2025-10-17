@@ -23,4 +23,3 @@ A responsive and user-friendly **Management System** web application built using
 - **CSS** – Custom styling for a clean UI
 - **JavaScript** – Additional dynamic behaviors
 
-## 📁 Project Structure (Sample)
