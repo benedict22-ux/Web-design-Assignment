@@ -1,82 +1,26 @@
-Welcome to your project
+Welcome to my project
 Project info
 
 URL: https://web-gateway-spark-mokoenaezzys-projects.vercel.app/
 
-How can I edit this code?
+# 📋 Management System Web Application
 
-There are several ways to edit your application.
+A responsive and user-friendly **Management System** web application built using **React**, **TypeScript**, **CSS**, and **JavaScript**. This application allows users to manage employee records with ease — including adding new employees, removing existing members, and displaying a clear **hierarchical structure** that shows which employee reports to which manager.
 
-Use the web editor
+## 🚀 Features
 
-Visit this link
- and start prompting.
-Changes made through the web interface will be committed automatically to this repo.
+- 👥 Add and remove employees from the system
+- 🧭 Visualize reporting hierarchy and management structure
+- 🧩 Modular and scalable component structure
+- 🛠️ Built with React and TypeScript for maintainability
+- 🎨 Custom styling using pure CSS
+- 🔍 Real-time updates and interactivity with JavaScript
 
-Use your preferred IDE
+## 🛠️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes.
-Pushed changes will also be reflected in the web interface.
+- **React** – Component-based UI development
+- **TypeScript** – Strongly typed JavaScript for scalable code
+- **CSS** – Custom styling for a clean UI
+- **JavaScript** – Additional dynamic behaviors
 
-The only requirement is having Node.js & npm installed — install with nvm
-
-Follow these steps:
-
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-
-
-Edit a file directly in GitHub
-
-Navigate to the desired file(s).
-
-Click the "Edit" button (pencil icon) at the top right of the file view.
-
-Make your changes and commit the changes.
-
-Use GitHub Codespaces
-
-Navigate to the main page of your repository.
-
-Click on the "Code" button (green button) near the top right.
-
-Select the "Codespaces" tab.
-
-Click on "New codespace" to launch a new Codespace environment.
-
-Edit files directly within the Codespace and commit and push your changes once you're done.
-
-What technologies are used for this project?
-
-This project is built with:
-
-Vite
-
-TypeScript
-
-React
-
-shadcn-ui
-
-Tailwind CSS
-
-How can I deploy this project?
-
-Visit the project URL and click on Share → Publish to deploy.
-
-Can I connect a custom domain?
-
-Yes!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: Setting up a custom domain
+## 📁 Project Structure (Sample)
